@@ -1,1 +1,8 @@
 DSP+p1(1.0M padding)+vm+modem
+
+#define DSP_ADR          0x00020000
+#define VMJALUNA_ADR     0x00400000
+#define FIXNV_ADR        0x00480000
+#define RUNTIMENV_ADR    0x004a0000
+#define MODEM_ADR        0x00500000
+#define RAMDISK_ADR      0x05500000
